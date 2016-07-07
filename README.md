@@ -1,7 +1,7 @@
 # 基于ES6编译bootstrap
 
 ## 安装node  
-下载地址：[Node](https://nodejs.org/en/)
+下载地址：[Node](https://nodejs.org/en/)  
 解决网速慢问题：[淘宝NPM](https://npm.taobao.org/)
 
 ## 安装gulp
