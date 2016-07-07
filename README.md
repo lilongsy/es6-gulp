@@ -56,7 +56,7 @@ bower install
     gulp fonts
 ### 其他文件处理
     gulp extras
-### 依赖（在bower.json的dependencies里）处理
+### js或css依赖（在bower.json的dependencies里，如jquery）处理
     gulp wiredep
 ### 服务器实时监控
     gulp serve
