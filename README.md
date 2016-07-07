@@ -14,7 +14,7 @@ npm install -g bower
 bower install bootsrap-sass  
 
 ## 新建 .babelrc
-内容为：  
+定义ES版本，内容为：  
     {
       "presets": [
         "es2015"
@@ -22,16 +22,16 @@ bower install bootsrap-sass
     }
 
 ## 新建 .bowerrc
-内容为：  
+定义bower模块安装目录，内容为：  
     {
         "directory": "bower_components"
     }
 
 ## 新建gulpfile.babel.js
-内容在gulpfile.babel.js中
+内容在gulpfile.babel.js中，用来自定义任务。
 
 ## 修改package.json
-内容在package.json中
+内容在package.json中，用来安装必须的依赖模块。
 
 ## 安装需要的模块
 node install  
