@@ -28,7 +28,10 @@ bower install bootsrap-sass
     }
 
 ## 新建gulpfile.babel.js
-内容在gulpfile.babel.js。  
+内容在gulpfile.babel.js中
+
+## 修改package.json
+内容在package.json中
 
 ## 安装需要的模块
 node install  
